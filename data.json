@@ -1,0 +1,19 @@
+{
+  "basics":{
+  "photo":"images.jpg",
+  "name":"likii",
+  "email":"likitha2110@gmail.com",
+  "phone":"9010109679",
+  "address":"pallipat"
+},
+ "career":{
+   "info":"I believe a résumé is required to show probable clients/recruiters a brief of your capabilities and your past work. But the problem with résumé is, it gets piled up with hundreds of others. A freelancer must stand out of the crowd to show that one exists and let the work do the talking."
+},
+"education":{
+  {
+    "course":"MCA",
+    "college":"SVPCET",
+    "date"
+  }
+}
+}
